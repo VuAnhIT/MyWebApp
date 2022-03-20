@@ -11,3 +11,4 @@ services:
       - "8080:8080"
     depends_on:
       - app-db
+# Go to http://localhost:8080/MyWebApp
