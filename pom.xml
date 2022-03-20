@@ -6,8 +6,9 @@
 
     <groupId>com.jetbrains</groupId>
     <artifactId>MyWebApp</artifactId>
+    <description>Migrating from javax to jakarta namespace</description>
     <version>1.0</version>
-    <name>MyWebApp</name>
+    <name>MyWebApp_Migrating from javax to jakarta namespace</name>
     <packaging>war</packaging>
 
     <properties>
